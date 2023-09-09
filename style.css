@@ -1,0 +1,28 @@
+body {
+	background-image: url(sunflower.jpg);
+	background-size: cover;
+	font-family: Georgia;
+	font-size: large;
+}
+
+.navBar {
+	display: inline;
+	list-style: upper-roman;
+}
+
+h1 {
+	color: rgba(214, 180, 88, 0.966);
+	text-align: center;
+	border: 3px solid black;
+	cursor: grab;
+	padding: 20px 0px 20px 0px;
+	margin: 5px;
+}
+
+p {
+	text-align: center;
+	color: rgba(214, 180, 88, 0.966);
+	font-weight: bold;
+}
+
+
