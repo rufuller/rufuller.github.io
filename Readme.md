@@ -1,4 +1,6 @@
 # title Ru Fuller's Portfolio
+[Link to my Projects](https://rufuller.github.io/Projects)
+
 | Typewriter Controls & Indicators Project | 101 |
 | --- | --- |
 
@@ -36,4 +38,4 @@
 
 ![Ribbon: Curved and Tilted Down 1_0](RackMultipart20230909-1-tpkc3s_html_19e74464dd1315bc.gif)
 
-1
+
