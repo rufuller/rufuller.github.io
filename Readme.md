@@ -1,4 +1,4 @@
-# title Ru Fuller's Portfolio
+# Rulonda Fuller's Portfolio
 [Link to my Projects](https://rufuller.github.io/Projects)
 
 | Typewriter Controls & Indicators Project | 101 |
