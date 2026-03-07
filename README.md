@@ -2,9 +2,10 @@
 
 Welcome to my portfolio! Here I document a summary of my technical writing projects. These projects feature user guides for hardware and software, and troubleshooting documentation.
 
-# Table of Contents
+# How to Send Money Through PayPal App
+This [user guide](https://github.com/rufuller/How-to-Send-Money-Through-PayPal-App) demonstrates how to send money using the PayPal mobile app.
 
-[How to Send Money Through the PayPal App](#How-to-Send-Money-Through-PayPal-App)
+- Languages: Markdown 
 
 <!---
 rufuller/rufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
