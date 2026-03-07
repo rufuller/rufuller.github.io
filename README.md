@@ -1,6 +1,10 @@
-Here are a list of my current projects:
+# Rulonda's Portfolio
 
-[How to Send Money Through the PayPal App](https://github.com/rufuller/How-to-Send-Money-Through-PayPal-App)
+Welcome to my portfolio! Here I document a summary of my technical writing projects. These projects feature user guides for hardware and software, and troubleshooting documentation.
+
+# Table of Contents
+
+[How to Send Money Through the PayPal App](#How-to-Send-Money-Through-PayPal-App)
 
 <!---
 rufuller/rufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
