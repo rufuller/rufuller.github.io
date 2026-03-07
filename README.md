@@ -1,11 +1,17 @@
 # Rulonda's Portfolio
 
-Welcome to my portfolio! Here I document a summary of my technical writing projects. These projects feature user guides for hardware and software, and troubleshooting documentation.
+Welcome to my portfolio! Here I document my technical writing projects which feature user guides for hardware and software, and troubleshooting documentation.
 
 # How to Send Money Through PayPal App
-This [user guide](https://github.com/rufuller/How-to-Send-Money-Through-PayPal-App) demonstrates how to send money using the PayPal mobile app.
+This [user guide](https://github.com/rufuller/How-to-Send-Money-Through-PayPal-App) demonstrates how to send money through the PayPal mobile app. <br>
 
-- Languages: Markdown 
+**Languages Used:** Markdown <br>
+**Tools Used:** Adobe Illustrator, VS Code
+
+ # How to Update Broken WordPress Home Url 
+ This [troubleshooting procedure](https://acrobat.adobe.com/id/urn:aaid:sc:us:4700c0d5-ac99-450d-9e5c-158492310391) demonstrates how to fix a broken WordPress blog Home page. <br>
+ 
+**Tools Used:** Microsoft Word, Adobe Acrobat
 
 <!---
 rufuller/rufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
