@@ -10,8 +10,13 @@ This [user guide](https://github.com/rufuller/How-to-Send-Money-Through-PayPal-A
 
  # How to Update Broken WordPress Home Url 
  This [troubleshooting procedure](https://acrobat.adobe.com/id/urn:aaid:sc:us:4700c0d5-ac99-450d-9e5c-158492310391) demonstrates how to fix a broken WordPress blog Home page. <br>
+
+ **Tools Used:** Adobe Acrobat
+
+ # Controls and Indicators (Hardware)
+ This [hardware guide](https://github.com/rufuller/controls-and-indicators-hardware) demonstrates the controls and indicators for a 1961 Underwood 18 manual typewriter.
  
-**Tools Used:** Microsoft Word, Adobe Acrobat
+**Tools Used:** Adobe Acrobat
 
 <!---
 rufuller/rufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
